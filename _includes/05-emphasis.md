@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. Gosto de jogar Xadrez
+2. Gosto de aquarismo
+3. Gostao de filmes de:
+   1. *Terror*
+   2. _Ficção cientifica_
+   3. **Hackers**
+   4. __Comédia__
