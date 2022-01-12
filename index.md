@@ -1,4 +1,3 @@
-## Yaktocat
 
 <br>
 
